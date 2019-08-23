@@ -1,7 +1,7 @@
 {
   "name": "kuntaliitto/kuntafibase_core",
   "type": "drupal-module-custom",
-  "description": "Basic article supporting multichannel and multitype content",
+  "description": "Core fields, configuration, vocabulary and taxonomies",
   "keywords": [
     "Drupal",
     "KuntaFi",
