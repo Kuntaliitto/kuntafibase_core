@@ -9,6 +9,5 @@ dependencies:
   - file
   - node
   - scheduler_content_moderation_integration
-  - thunder_updater
   - user
 version: 8.x-1.0
