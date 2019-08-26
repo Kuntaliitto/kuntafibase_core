@@ -1,0 +1,7 @@
+langcode: en
+status: true
+dependencies: {  }
+name: 'Life situation'
+vid: life_situation
+description: ''
+weight: 0
